@@ -14,15 +14,15 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '212703774918',
+ pairingNumber : '212703774918',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomorwa : '212703774918',
+ nameown : 'AYOUYB',
+ nomerown : '212703774918',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
+ author : 'SILANA AI AYOUB',
+ namebot : '乂 SILANA AI AYOUB',
  wm : 'SILANA LITE.',
  stickpack : 'Whatsapp',
  stickauth : 'SILANA LITE',
@@ -60,7 +60,7 @@ global.url = {
 global.payment = {
  psaweria: 'https://saweria.co/mamad',
  ptrakterr: '-',
- pdana: '0823427570'
+ pdana: '212703774918'
 }
 // Info Wait
 global.msg = {
